@@ -24,9 +24,10 @@ nav a {
   text-decoration: none;
 }
 
-nav a:hover {
+a:hover {
   color: #3f1622;
-border-bottom: 3px;
+border-bottom: 3px
+text-decoration: none;
 }
 
 
